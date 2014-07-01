@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/kuty/projet/minishell_2/minishell_function'
+let g:netrw_dirhist_2='/home/kuty/projet/minishell_1'
+let g:netrw_dirhist_3='/home/kuty/projet/minishell_2/my_lexer_com'
+let g:netrw_dirhist_4='/home/kuty/projet/rtv1'
+let g:netrw_dirhist_5='/home/kuty/projet/corewar_tek1/VM'
+let g:netrw_dirhist_6='/home/kuty/projet/corewar_tek1'
+let g:netrw_dirhist_7='/home/kuty/projet/corewar_tek1/TMP'
+let g:netrw_dirhist_8='/home/kuty/projet/corewar_tek1'
+let g:netrw_dirhist_9='/home/kuty/projet/corewar_tek1/ASM'
