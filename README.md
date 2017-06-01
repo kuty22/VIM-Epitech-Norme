@@ -1,12 +1,7 @@
-epitech_config
+Epitech VIM Config
 ==============
 
-epitech vim config
-
-ajouter just .vim/ et .vimrc dans votre home.
-Il suffit d'exporter ces deux variables pour que la conf soi complet.
-
-export EPI_LOGIN="pseudo_epitech"
-export EPI_NAME="prenom et nom"
-
-Remerciment a max pour cette config qui n'est pas de moi.
+Add .vim/ and .vimrc in your home (~/).
+Now you need to add in your .bashrc this variables below:
+  export EPI_LOGIN="Your_Epitech_Login"
+  export EPI_NAME="Firstname Lastname"
